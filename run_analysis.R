@@ -1,5 +1,6 @@
 #Coursera-getting-and-cleaning-data-project
 #run_analysi.R
+#2018.1.17
 
 #library(utils)
 setwd("D:/Coursera/3 Getting and Cleaning Data/Week4")
