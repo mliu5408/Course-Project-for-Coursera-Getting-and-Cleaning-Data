@@ -1,5 +1,5 @@
 # Code Book
-#2018-01-17
+# 2018-01-17
 
 This code book summarizes the resulting data fields in `tidy.txt`.
 
